@@ -1,8 +1,12 @@
 Welcome. I’m exploring Jekyll themes:
 ---
 layout: post
-date: 2022-01-27 22:27 GMT-3
-title: Link Test
+title: Sample blog post
+subtitle: Each post also has a subtitle
+gh-repo: v01dr/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
 ---
- 
- * [space theme] (/_posts/tests/space/index.html)
+
+I strongly encourage you to [space theme] (/_posts/tests/space/index.html)
