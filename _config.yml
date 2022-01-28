@@ -6,10 +6,9 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
-
+title: 
 # Your name to show in the footer
-author: Some Person
+author: Jullyano Lino
 
 # --- List of links in the navigation bar --- #
 
@@ -42,17 +41,17 @@ social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: v01dr
+  twitter: v01derX
+# patreon: DeanAttali
+  youtube: c/v01downex
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: v01der
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
